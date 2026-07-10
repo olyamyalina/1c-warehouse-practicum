@@ -1,0 +1,28 @@
+# 1C:Enterprise database files and local runtime data
+*.dt
+*.1CD
+*.lgd
+*.lgp
+1Cv8Log/
+*.cfu
+*.bak
+*.tmp
+*.log
+
+# 1C local/cache/service files
+*.pfl
+*.mxl
+*.st
+*.v8i
+*.v8u
+*.cf_*
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Screenshots drafts / private notes
+screenshots/private/
+docs/private/
