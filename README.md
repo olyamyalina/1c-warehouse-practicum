@@ -136,36 +136,35 @@
 
 ### Интерфейс и цены номенклатуры
 
-![Интерфейс и цены номенклатуры](C:\Users\User\Downloads\github_ready_1c_practicum\github_ready_1c_practicum\screenshots\01-main-interface-and-prices.png)
+![Интерфейс и цены номенклатуры](screenshots/01-main-interface-and-prices.png)
 
 ### Карточка номенклатуры
 
-![Карточка номенклатуры](C:\Users\User\Downloads\github_ready_1c_practicum\github_ready_1c_practicum\screenshots\02-catalog-nomenclature.png)
+![Карточка номенклатуры](screenshots/02-catalog-nomenclature.png)
 
 ### Приобретение товаров
 
-![Документ приобретения товаров](C:\Users\User\Downloads\github_ready_1c_practicum\github_ready_1c_practicum\screenshots\03-purchase-document.png)
+![Документ приобретения товаров](screenshots/03-purchase-document.png)
 
 ### Реализация товаров
 
-![Документ реализации товаров](C:\Users\User\Downloads\github_ready_1c_practicum\github_ready_1c_practicum\screenshots\04-sales-document.png)
+![Документ реализации товаров](screenshots/04-sales-document.png)
 
 ### Движения по регистру остатков
 
-![Движения по регистру накопления](C:\Users\User\Downloads\github_ready_1c_practicum\github_ready_1c_practicum\screenshots\05-inventory-register-movements.png)
+![Движения по регистру накопления](screenshots/05-inventory-register-movements.png)
 
 ### Код проведения документа
 
-![Код проведения документа](C:\Users\User\Downloads\github_ready_1c_practicum\github_ready_1c_practicum\screenshots\06-document-posting-code.png)
+![Код проведения документа](screenshots/06-document-posting-code.png)
 
 ### Бухгалтерские движения
 
-![Движения по регистру бухгалтерии](C:\Users\User\Downloads\github_ready_1c_practicum\github_ready_1c_practicum\screenshots\07-accounting-register.png)
+![Движения по регистру бухгалтерии](screenshots/07-accounting-register.png)
 
 ### Отчет по продажам на СКД
 
-![Отчет по продажам](C:\Users\User\Downloads\github_ready_1c_practicum\github_ready_1c_practicum\screenshots\08-sales-report-skd.png)
-
+![Отчет по продажам](screenshots/08-sales-report-skd.png)
 ---
 
 ## Структура репозитория
@@ -211,7 +210,7 @@
 7. Запустить базу в режиме **1С:Предприятие**.
 
 Дополнительная инструкция находится в файле
-[`docs/import_instructions.md`](C:\Users\User\Downloads\github_ready_1c_practicum\github_ready_1c_practicum\docs\import_instructions.md).
+[`docs/import_instructions.md`](docs/import_instructions.md).
 
 ---
 
